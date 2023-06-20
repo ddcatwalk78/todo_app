@@ -1,3 +1,5 @@
+"use client"; // This is a client component
+
 import type { NextPage } from 'next'
 import useSWR from 'swr'
 import axios from '@/libs/axios'
